@@ -6,16 +6,96 @@ C4,Tesla Model 3,5
 C5,Ford Mustang,4
 C6,Chevrolet Malibu,5
 C7,Audi A6,5
-C8,Nissan Altima,4
+C8,Nissan Altima,5
 C9,Hyundai Sonata,5
 C10,Subaru Outback,5
-C11,Ford Focus,4
-C12,BMW 3 Series,5
-C13,Mercedes Benz E-Class,5
-C14,Toyota Camry,5
-C15,Honda Accord,5
-C16,Lexus RX,7
-C17,Audi Q5,5
-C18,Nissan Rogue,5
-C19,Jeep Grand Cherokee,7
-C20,Dodge Charger,5
+C11,Toyota Camry,5
+C12,Honda Accord,5
+C13,Lexus RX 350,5
+C14,Dodge Charger,5
+C15,Ford Explorer,7
+C16,Jeep Grand Cherokee,5
+C17,Kia Optima,5
+C18,Chevrolet Silverado,3
+C19,RAM 1500,3
+C20,GMC Sierra 1500,3
+C21,Mercedes-Benz E-Class,5
+C22,Audi Q5,5
+C23,BMW 3 Series,5
+C24,Ford F-150,3
+C25,Honda Pilot,8
+C26,Nissan Pathfinder,7
+C27,Toyota Highlander,7
+C28,Subaru Forester,5
+C29,Mazda CX-5,5
+C30,Chevrolet Tahoe,7
+C31,Hyundai Tucson,5
+C32,Toyota RAV4,5
+C33,Honda CR-V,5
+C34,BMW X3,5
+C35,Mercedes-Benz GLC,5
+C36,Jaguar F-Pace,5
+C37,Audi Q7,7
+C38,Lexus GX 460,7
+C39,Toyota 4Runner,7
+C40,Porsche Macan,5
+C41,Ford Edge,5
+C42,Lincoln MKX,5
+C43,Volkswagen Passat,5
+C44,Hyundai Elantra,5
+C45,Subaru Legacy,5
+C46,Toyota Sienna,8
+C47,Chrysler Pacifica,7
+C48,Honda Odyssey,8
+C49,Kia Carnival,8
+C50,Nissan Quest,7
+C51,Dodge Durango,7
+C52,Ford Expedition,8
+C53,Chevrolet Traverse,7
+C54,Toyota Land Cruiser,8
+C55,BMW X7,7
+C56,Range Rover Sport,5
+C57,Volvo XC90,7
+C58,Land Rover Defender,5
+C59,Audi Q8,5
+C60,BMW 7 Series,5
+C61,Mercedes-Benz S-Class,5
+C62,Genesis G80,5
+C63,Lincoln Navigator,7
+C64,Porsche Cayenne,5
+C65,Cadillac Escalade,7
+C66,Toyota Tacoma,4
+C67,Ford Ranger,4
+C68,Nissan Frontier,4
+C69,GMC Canyon,4
+C70,Honda Ridgeline,5
+C71,RAM 2500,3
+C72,Chevrolet Colorado,4
+C73,Toyota Tundra,5
+C74,Ford Super Duty,3
+C75,Nissan Titan,5
+C76,RAM 3500,3
+C77,Jeep Wrangler,4
+C78,Toyota FJ Cruiser,4
+C79,Land Rover Discovery,5
+C80,Chevrolet Suburban,8
+C81,Nissan Armada,8
+C82,Toyota Sequoia,8
+C83,Jeep Wagoneer,8
+C84,Lincoln Continental,5
+C85,Cadillac CTS,5
+C86,Infiniti QX60,7
+C87,Acura MDX,7
+C88,Audi A4,5
+C89,Lexus ES 350,5
+C90,Toyota Avalon,5
+C91,Honda Fit,5
+C92,BMW i3,4
+C93,Nissan Leaf,5
+C94,Chevrolet Bolt EV,5
+C95,Kia Soul EV,5
+C96,Audi e-tron,5
+C97,Tesla Model S,5
+C98,BMW iX3,5
+C99,Hyundai Kona EV,5
+C100,Ford Mustang Mach-E,5
