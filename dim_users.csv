@@ -1,0 +1,21 @@
+UserID,UserType,UserName,Email
+1,Registered,John Doe,johndoe@email.com
+2,Non-Registered,Mary Jane,maryjane@email.com
+3,Registered,Michael Smith,michael@email.com
+4,Non-Registered,Sara Lee,saralee@email.com
+5,Registered,Paul Black,paulblack@email.com
+6,Registered,Olivia Green,olivia@email.com
+7,Non-Registered,Kevin Brown,kevinbrown@email.com
+8,Registered,Lisa White,lisawhite@email.com
+9,Non-Registered,Tom Harris,tomharris@email.com
+10,Registered,Karen Black,karen@email.com
+11,Registered,David Blue,davidblue@email.com
+12,Non-Registered,Angela Grey,angelagrey@email.com
+13,Registered,Mark Wilson,markwilson@email.com
+14,Non-Registered,Nancy Gray,nancygray@email.com
+15,Registered,Steve White,stevewhite@email.com
+16,Non-Registered,Jessica Clark,jessicaclark@email.com
+17,Registered,Alan King,alanking@email.com
+18,Non-Registered,Emma Stone,emmastone@email.com
+19,Registered,Brian Green,briangreen@email.com
+20,Non-Registered,Sophia Adams,sophiaadams@email.com
